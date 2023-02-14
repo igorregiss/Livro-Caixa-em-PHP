@@ -23,4 +23,5 @@ Como este projeto tem objetivo a fins de conhecimento, não possue muitas funcio
 2. Altere o arquivo config.php com o usuário e a senha do seu banco para utiliza-lo.
 3. Acesse http://endereço.para.seu.servidor/livrocaixa-regis.
 
+# Imagem do login:
 <img src="https://github.com/igorregiss/Livro-Caixa-em-PHP/blob/main/LOGIN%20LIVRO%20CAIXA.png?raw=true">
